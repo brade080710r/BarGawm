@@ -1,0 +1,2 @@
+# BarGawm
+Zajecia z AiBD
